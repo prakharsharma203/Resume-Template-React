@@ -1,0 +1,26 @@
+.last{
+    position: absolute;
+    top: 350px;
+    left: 310px;
+    /* display: flex; */
+    border-right: 5px solid black;
+    padding-right: 15px;
+    margin-top: -10px;
+    border-bottom: 5px solid black;
+}
+.last2{
+    position: absolute;
+    top: 350px;
+    left: 550px;
+    font-size: small;
+}
+.divt{
+    padding: 3PX;
+    background-color: black;
+    margin-top: 76px;
+    margin-left: -25px;
+    width: 300px;
+}
+.iconl{
+    margin-left: -280px;
+}

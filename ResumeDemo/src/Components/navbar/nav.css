@@ -1,0 +1,27 @@
+.icons{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: left;
+    text-align: center;
+    margin-left: 130px;
+}
+img{
+    width: 150px;
+}
+.phase1{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+    border-right: 5px solid black;
+    padding-right: 15px;
+    /* border-bottom: 3px solid black; */
+}
+.phase2{
+    position: absolute;
+    top: 45px;
+    left: 530px;
+    width: 300px;
+    padding-left: 15px;
+    /* border-bottom: 3px solid black; */
+}

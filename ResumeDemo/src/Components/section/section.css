@@ -1,0 +1,14 @@
+.center{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    width: 520px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    margin-top: -15px;
+}
+.text{
+   font-size: 13px;
+   padding-left: 150px;
+   margin-top: -12px;
+}
